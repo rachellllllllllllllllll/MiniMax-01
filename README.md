@@ -3,6 +3,7 @@
 
 <source srcset="figures/MiniMaxLogo-white.png" media="(prefers-color-scheme: dark)">
   <img src="figures/MiniMaxLogo.png" alt="Your Image Description">
+</source>
 </picture>
 
 
