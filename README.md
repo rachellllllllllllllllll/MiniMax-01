@@ -1,8 +1,8 @@
 <div align="center">
 <picture>
 
-<source srcset="https://cdn.hailuoai.video/web-assets/img/video-header-credits.png" media="(prefers-color-scheme: dark)">
-  <img src="https://filecdn.minimax.chat/public/969d635c-cab6-45cc-8d61-47c9fe40c81f.png?x-oss-process=image/format,webp" alt="Your Image Description">
+<source srcset="figures/MiniMaxLogo-white.png" media="(prefers-color-scheme: dark)">
+  <img src="figures/MiniMaxLogo.png" alt="Your Image Description">
 </picture>
 
 
